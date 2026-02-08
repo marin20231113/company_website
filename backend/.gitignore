@@ -9,7 +9,7 @@ yarn-error.log*
 pids
 *.pid
 *.seed
-*.pid,lock
+*.pid.lock
 
 # Dependency directories
 node_modules/
